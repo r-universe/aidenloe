@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "AIG"]
+	path = AIG
+	url = https://github.com/aidenloe/aig
+	shallow = true
+	registered = true
+[submodule "mazeGen"]
+	path = mazeGen
+	url = https://github.com/aidenloe/mazegen
+	shallow = true
+	registered = true
+[submodule "numGen"]
+	path = numGen
+	url = https://github.com/aidenloe/numgen
+	shallow = true
+	registered = true

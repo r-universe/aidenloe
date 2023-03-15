@@ -1,0 +1,13 @@
+[
+  {
+    "package": "AIG"
+  },
+  {
+    "package": "mazeGen",
+    "oncran": true
+  },
+  {
+    "package": "numGen",
+    "oncran": true
+  }
+]
