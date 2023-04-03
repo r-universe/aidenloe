@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "AIG"]
-	path = AIG
-	url = https://github.com/aidenloe/aig
-	shallow = true
-	registered = true
 [submodule "mazeGen"]
 	path = mazeGen
 	url = https://github.com/aidenloe/mazegen
