@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "mazeGen"]
-	path = mazeGen
-	url = https://github.com/aidenloe/mazegen
 [submodule "networkGen"]
 	path = networkGen
 	url = https://github.com/cran/networkGen
